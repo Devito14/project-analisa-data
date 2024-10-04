@@ -57,6 +57,3 @@ insight_text = """
    pada saat promosi.
 """
 st.write(insight_text)
-
-if __name__ == '__main__':
-    st.run()
