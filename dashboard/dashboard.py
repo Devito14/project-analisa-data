@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 #inialisasi variabel all_df
-all_df = pd.read_csv("c:\submission\dashboard\main_data.csv")
+all_df = pd.read_csv("dashboard\main_data.csv")
 
 #Mengatur judul
 st.title("Bike Sharing Dashboard")
